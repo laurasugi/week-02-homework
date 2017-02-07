@@ -5,10 +5,10 @@
 
   Most of the work I did this week consisted of downloading, configuring and exploring the programs and tools we will be using for this course.
 I downloaded and am using:
-  - Github desktop
-  - Atom
+  - [Github desktop & Gitshell](https://desktop.github.com/) 
+  - [Atom](https://atom.io/)
   - Powershell
-  - Gitshell
+
 
 **2. What steps did you take to complete the assignment?**
 
