@@ -5,7 +5,7 @@
 
   Most of the work I did this week consisted of downloading, configuring and exploring the programs and tools we will be using for this course.
 I downloaded and am using:
-  - [Github desktop & Gitshell](https://desktop.github.com/) 
+  - [Github desktop & Gitshell](https://desktop.github.com/)
   - [Atom](https://atom.io/)
   - Powershell
 
@@ -19,7 +19,9 @@ I downloaded and am using:
   I had quite a few issues, mainly with powershell and atom.  I did not post about any issues on the repo, but looking at other peoples issues on the repo issue tracker that were similar to mine, googling specific problems, and of course re-reading the instructions given on the class website were all very helpful.
 
 **4. Is there anything in particular you learned that you would like to discuss further?**
+
   This week I learned more about powershell commands such as `ch dir`, `pwd` and `clear`.
 
 **5. What issues did you help your fellow classmates out with this past homework cycle?**
+
   I helped a classmate who is also using windows and struggling with powershell by suggesting a few things that helped me get started.
